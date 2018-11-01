@@ -1,0 +1,4 @@
+logging:
+  level: 
+    ROOT: info
+    com.momo: debug
